@@ -1,12 +1,5 @@
 [
     {
-    "title": "Gender",
-    "description": ":male_sign:: male\n:female_sign:: female",
-    "color": "#000000",
-    "emojis": ["♂","♀"],
-    "roles": ["735848533399306311","735848533399306311"]
-    },
-    {
       "title": "Gender",
       "description": ":male_sign:: male\n:female_sign:: female",
       "color": "#000000",
