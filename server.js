@@ -7,6 +7,6 @@ app.use(function (req, res, next) {
     next()
 })
 
-app.listen(process.env.PORT || 80, function () {
+app.listen(process.env.PORT, function () {
     console.log('App started on port ' + process.env.PORT);
 });
