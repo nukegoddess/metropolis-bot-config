@@ -1,0 +1,12 @@
+{
+  "roles": [
+    {
+      "title": "Gender",
+      "description": ":gheartblue:: @eboy\n:gheartpurple~1:: @egirl\n:gheartwhite:: @other",
+      "color": "#000000",
+      "emojis": ["♂","♀","☺"],
+      "roles": ["709911191215931482","709911326058610718","709911542904127508"]
+    }
+  ],
+  "channel": "736698925062291486"
+}
