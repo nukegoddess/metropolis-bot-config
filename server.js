@@ -8,5 +8,5 @@ app.use(function (req, res, next) {
 })
 
 app.listen(process.env.PORT || 80, function () {
-    console.log('App started!');
+    console.log('App started on port ' + process.env.PORT);
 });
