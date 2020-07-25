@@ -3,7 +3,7 @@
     {
       "title": "Gender",
       "description": ":gheartblue:: @eboy\n:gheartpurple~1:: @egirl\n:gheartwhite:: @other",
-      "color": "#000000",
+      "color": "#E7FAB1",
       "emojis": ["♂","♀","☺"],
       "roles": ["709911191215931482","709911326058610718","709911542904127508"]
     }
